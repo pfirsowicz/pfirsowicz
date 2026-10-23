@@ -15,9 +15,11 @@ Alongside my professional work, I design, build and maintain independent softwar
 
 ### Personal projects
 
-I develop applications covering areas such as inventory management, beekeeping operations and utility tracking.
+I build independent software applications that solve practical problems, including inventory management, beekeeping operations and utility tracking.
 
-Selected projects and technical examples will be published here as they are prepared for public release.
+**[Water Allowance Tracker](https://github.com/pfirsowicz/water-allowance-tracker)** — A full-stack application built with Node.js, Express, MySQL and JavaScript. Features include a REST API, validation, automated tests and a responsive dashboard.
+
+[Try the interactive demo](https://pfirsowicz.github.io/water-allowance-tracker/) using synthetic data.
 
 ### Connect
 
