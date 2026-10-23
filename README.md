@@ -2,9 +2,9 @@
 
 **Software Engineer | Backend Systems, APIs & Systems Integration**
 
-I'm a software engineer with a focus on backend systems, APIs and systems integration.
+[Personal website](https://firsowicz.com/) · [LinkedIn](https://www.linkedin.com/in/pawelfirsowicz/)
 
-Alongside my professional work, I design, build and maintain independent software applications that solve practical problems and support real-world workflows.
+I'm a software engineer focused on backend systems, APIs and systems integration. Alongside my professional work, I build and maintain independent software applications that support practical, real-world workflows.
 
 ### What I work on
 
@@ -15,18 +15,10 @@ Alongside my professional work, I design, build and maintain independent softwar
 
 ### Selected personal projects
 
-I build independent software applications that solve practical problems, including inventory management, beekeeping operations and utility tracking.
-
 **[Water Allowance Tracker](https://github.com/pfirsowicz/water-allowance-tracker)** — A full-stack Node.js, Express and MySQL application for tracking meter readings and water allowances. Includes API validation, automated tests and a responsive dashboard.
 
 [Try the synthetic-data demo](https://pfirsowicz.github.io/water-allowance-tracker/).
 
-
-
 **[HiveLedger — Beekeeping Operations](https://github.com/pfirsowicz/beekeeping-operations-demo)** — An independent, synthetic-data application demonstrating colony inspections, follow-ups and traceable relocations. Uses JavaScript domain logic, a local Node.js API, SQLite transactions and automated tests.
 
-[Demo](https://pfirsowicz.github.io/beekeeping-operations-demo/).
-
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/pawelfirsowicz)
+[Try the demo](https://pfirsowicz.github.io/beekeeping-operations-demo/).
