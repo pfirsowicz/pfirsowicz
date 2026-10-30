@@ -15,10 +15,8 @@ I'm a software engineer focused on backend systems, APIs and systems integration
 
 ### Selected personal projects
 
-**[Water Allowance Tracker](https://github.com/pfirsowicz/water-allowance-tracker)** — A full-stack Node.js, Express and MySQL application for tracking meter readings and water allowances. Includes API validation, automated tests and a responsive dashboard.
+**[HiveLedger — Beekeeping Operations](https://github.com/pfirsowicz/beekeeping-operations-demo)** — My primary public engineering case study, based on workflows from a separate application I use to manage my apiaries. It demonstrates colony identity, inspection history, traceable relocations, idempotent commands and transactional SQLite persistence. [Design and tests](https://github.com/pfirsowicz/beekeeping-operations-demo#engineering-decisions-and-evidence) · [Interactive synthetic-data demo](https://pfirsowicz.github.io/beekeeping-operations-demo/).
 
-[Try the synthetic-data demo](https://pfirsowicz.github.io/water-allowance-tracker/).
+**[Water Allowance Tracker](https://github.com/pfirsowicz/water-allowance-tracker)** — A complementary Node.js/Express/MySQL project focused on cumulative reading consistency, daylight-saving-safe calculations and database failure-path tests. [Engineering decisions](https://github.com/pfirsowicz/water-allowance-tracker#engineering-decisions-and-evidence) · [Interactive synthetic-data demo](https://pfirsowicz.github.io/water-allowance-tracker/).
 
-**[HiveLedger — Beekeeping Operations](https://github.com/pfirsowicz/beekeeping-operations-demo)** — An independent, synthetic-data application demonstrating colony inspections, follow-ups and traceable relocations. Uses JavaScript domain logic, a local Node.js API, SQLite transactions and automated tests.
-
-[Try the demo](https://pfirsowicz.github.io/beekeeping-operations-demo/).
+Both hosted GitHub Pages previews use synthetic browser data. The database-backed implementations run locally and are not hosted by GitHub Pages.
